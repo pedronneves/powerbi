@@ -14,9 +14,9 @@ Arquivo do PowerBI
 ![2](https://github.com/user-attachments/assets/f84f3dba-5b2b-4b7f-8788-aa1b66a3542e)
 3. Quantas ocorrências aconteceram por ano de Fabricação do Veículo?
 ![3](https://github.com/user-attachments/assets/ad785c14-fe63-49f7-a0ea-54da4fa1e4b1)
-4.Nas estatísticas de acidentes quantas pessoas ficaram ilesas, sofreram ferimentos e morreram nas estradas do país?
+4. Nas estatísticas de acidentes quantas pessoas ficaram ilesas, sofreram ferimentos e morreram nas estradas do país?
 ![4](https://github.com/user-attachments/assets/dc805121-84e1-40e5-af71-6a6baf1f6079)
-5. Análise de tipos de acidentes com vítimas.
+6. Análise de tipos de acidentes com vítimas.
 ![5](https://github.com/user-attachments/assets/7954b0b2-e103-4205-a0b1-0e2bae5b5ab8)
 
 
